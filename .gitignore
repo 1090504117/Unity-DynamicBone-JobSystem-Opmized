@@ -1,0 +1,16 @@
+##note##
+
+*.csproj
+*.sln
+.vs/
+Library/
+Temp/
+TempSave/
+Logs/
+Packages/
+obj/
+Assets/StreamingAssets/
+
+.vscode/
+*.idea/
+.svn/
